@@ -12,9 +12,22 @@
 * **Ambient Sound Machine:** Generate client-side binaural beats, brown noise, wind, and rain sounds to achieve flow state—without external dependencies.
 * **Dynamic Premium Themes:** Switch between Aurora Glow, Ocean Breeze, Forest Deep, and Sunset Glow styles.
 * **Comprehensive Dashboard:** Track daily tasks, weekly study intensity, pomodoro sessions, and pending active recall reviews.
-
 ---
 
+## 📸 Screenshots
+
+*Replace these placeholders by adding your own screenshots to the `assets/` folder!*
+
+<div align="center">
+  <img src="assets/dashboard.png" width="48%" alt="Dashboard View">
+  <img src="assets/timer.png" width="48%" alt="Pomodoro Timer View">
+</div>
+<div align="center">
+  <img src="assets/flashcards.png" width="48%" alt="Flashcards View">
+  <img src="assets/quiz.png" width="48%" alt="Quiz View">
+</div>
+
+---
 ## 🧠 Workflows & Architecture
 
 ### The Study Lifecycle
