@@ -1,0 +1,22 @@
+{
+  "name": "recallflow",
+  "version": "1.0.0",
+  "description": "RecallFlow — Premium Spaced-Repetition Study Hub",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx -y http-server -p 8000",
+    "dev": "npx -y http-server -p 8000"
+  },
+  "keywords": [
+    "study",
+    "spaced-repetition",
+    "pomodoro",
+    "recall",
+    "learning"
+  ],
+  "author": "Astitva",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
