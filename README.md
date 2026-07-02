@@ -16,8 +16,6 @@
 
 ## 📸 Screenshots
 
-*Replace these placeholders by adding your own screenshots to the `assets/` folder!*
-
 <div align="center">
   <img src="assets/dashboard.png" width="48%" alt="Dashboard View">
   <img src="assets/timer.png" width="48%" alt="Pomodoro Timer View">
