@@ -2,7 +2,7 @@
 
 **RecallFlow** is a premium, beautifully-designed spaced-repetition study hub that combines neuroscience-backed learning methods (Active Recall, Spaced Repetition) with productivity workflows (Pomodoro, Ambient Soundscapes).
 
-![RecallFlow Banner](https://via.placeholder.com/1200x400?text=RecallFlow+-+Study+Hub)
+![RecallFlow Banner](assets/banner.png)
 
 ## 🌟 Key Features
 
