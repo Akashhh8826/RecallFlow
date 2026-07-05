@@ -101,8 +101,3 @@ Since RecallFlow is a client-side Single Page Application (SPA), getting it runn
 ## 💾 State Persistence
 RecallFlow automatically saves all your flashcards, quizzes, and study statistics directly to your browser's `localStorage` (`recallflow_state`). No databases or account sign-ups are required to start being productive.
 
-## 🤝 Contributing
-Contributions, issues, and feature requests are welcome. Feel free to check the [issues page](https://github.com/yourusername/RecallFlow/issues) if you want to contribute.
-
-## 📄 License
-This project is licensed under the ISC License.
